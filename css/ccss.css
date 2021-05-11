@@ -107,7 +107,6 @@ article .maxw{
     flex-wrap: wrap;
     width: 100%;
 }
-
 article .content{
     display: flex;
     justify-content: center;
