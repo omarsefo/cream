@@ -119,10 +119,11 @@ article .content .textb{
     padding-top: 30px;
 }
 article .content .textb h2{
-    font-size: 120px;
+    font-size: 150px;
     font-family: 'Rochester',cursive;
     font-weight: 900;
     padding-bottom: 30px;
+    line-height: 1;
     color: #3f3131;
 }
 article .content .textb p{
